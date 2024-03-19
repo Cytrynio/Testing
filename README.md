@@ -19,16 +19,13 @@ My name is Marcin Lukasik. I am master of performed art and master of music art 
   - Reporting bugs
 # Courses
   - [_Udemy Praktyczny kurs testowania oprogramowania](https://www.udemy.com/share/105oI8/)
-  - [Postman Academy](https://academy.postman.com/) 
+  - [Postman Academy](https://academy.postman.com/)
+ 
 # My test case examples
   - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
+# My test plan for FootballTeam - Polish Version
+- [Testplan for Enchanting in FootballTeam game](https://docs.google.com/document/d/1lTCkTh_zlHayaATw1jysT7IzQ-wFyWR2-f08G5jJqPQ/edit?usp=sharing)]
 # My bug reports
-  - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
-# My projects
-  - Individual project - testing site [zara.com](https://www.zara.com/pl/)
-     - [Report](https://drive.google.com/file/d/1AlygpsNK0Og1H7g8RRQjQs1e9LRotXYw/view)
-     - [Test cases](https://drive.google.com/file/d/1Uq7kXvy8JQsqhCOky5Yaqh4KbcbLyH9x/view)
-     - [Test cases - regression testing](https://drive.google.com/file/d/1R5v7_HHsPG_CWcFRJJl0OmJ2qRvBJSNE/view)
-     - [Mind map](https://drive.google.com/file/d/1K8TamEa_IVchmcMzCX_bHoO0gVo22cym/view)
+# Other 
      - [Automated Postman tests](https://drive.google.com/file/d/15kAl0pI02FJYXOYu_KyIKN2XcvBK3Cmm/view)
       
