@@ -24,7 +24,7 @@ My name is Marcin Lukasik. I am master of performed art and master of music art 
 # My test plan for FootballTeam - Polish Version
 - [Testplan for Enchanting in FootballTeam game](https://docs.google.com/document/d/1lTCkTh_zlHayaATw1jysT7IzQ-wFyWR2-f08G5jJqPQ/edit?usp=sharing)]
 # My bug reports
-- [Bug report - MrBuggy 7](https://docs.google.com/document/d/1Yr0tBvLvzFhLPHRbAF61fJsa--D0zSbaLVOKLiYdXj8/edit?usp=sharing)
+- [Bug reports - MrBuggy 7](https://docs.google.com/document/d/1Yr0tBvLvzFhLPHRbAF61fJsa--D0zSbaLVOKLiYdXj8/edit?usp=sharing)
 # Other 
 
       
