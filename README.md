@@ -26,5 +26,5 @@ My name is Marcin Lukasik. I am master of performed art and master of music art 
 # My bug reports
 - [Bug reports - MrBuggy 7](https://docs.google.com/document/d/1Yr0tBvLvzFhLPHRbAF61fJsa--D0zSbaLVOKLiYdXj8/edit?usp=sharing)
 # Other 
-
+- [Example Test cases for Login/Sign-up page](https://docs.google.com/document/d/1nzHrNhWsxOao5PxaAbPbvoIDq1pf5bqSv06x7tf5I-A/edit?usp=sharing)
       
